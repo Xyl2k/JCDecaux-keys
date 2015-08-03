@@ -3,7 +3,7 @@ JCDecaux keys
 
 Hex L-Wrench 6mm: Multifonction elle servira entre autre a débloquer les pas de vis grippés type roues de vélo et beaucoup d'autres serrures dites de sécurité en France comme a l'étranger...
 
-Hex L-Wrench that will help you with your global communication needs (Key to open JCDecaux bus shelter panels and others outdoor advertising panels).
+Hex L-Wrench that will help you with your global communication needs. (Keys to open JCDecaux bus shelter panels and others outdoor advertising panels).
 
 =========
 ![Decaux](https://cloud.githubusercontent.com/assets/8536299/8696816/2c872160-2af0-11e5-9846-05b673b79aa4.png)
